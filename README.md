@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./pc.png" width="px">
+  <img src="./pc.png" width="150px">
    <br><br>
   <samp>
     👋 Hi there! I'm a Developer
@@ -27,7 +27,7 @@ Hi dear, my name is Thiago Bittencourt Coelho and I'm currently 21 years old,<br
 <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="20" height="20"/></p><p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=binttencourthiago&show_icons=true" alt="binttencourthiago"/>
+<img src="https://github-readme-stats.vercel.app/api?username=bittencourthiago&show_icons=true" alt="binttencourthiago"/>
 </p>
 
 <p align="center">
