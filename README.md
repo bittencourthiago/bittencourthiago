@@ -11,7 +11,7 @@
 
 <!-- ABOUT OF ME -->
 <p align="center" style="text-align: center;">
-Hi dear, my name is Thiago Bittencourt Coelho and I'm currently 21 years old,<br>I'm working with iOS development at Everis.<br>I'm studying<a href="https://www.apple.com/br/swift/">Swift</a> e <a href="https://nodejs.org/en/">Node</a> 
+Hi dear, my name is Thiago Bittencourt Coelho and I'm currently 21 years old,<br>I'm working with iOS development at Everis.<br>I'm studying <a href="https://www.apple.com/br/swift/">Swift</a> and <a href="https://nodejs.org/en/">Node</a> 
 </p>
 <!-- QUOTE -->
 <br>
