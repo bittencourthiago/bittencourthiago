@@ -1,39 +1,76 @@
-<p align="center">
-  <img src="./pc.png" width="150px">
-   <br><br>
-  <samp>
-    👋 Hi there! I'm a Developer
-  </samp>
+# Hi, nice to meet you <img width="30" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" alt="Sunglasses emoji" />
 
+<img align="right" width="40%" src="https://media.giphy.com/media/YxdQy6Vxbvb44/giphy.gif" alt="Basecamp sky" />
+
+### Welcome to my page!
+<p>
+  I'm Thiago Bittencourt Coelho, Fullstack developer from 
+  <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" />
+  <b>Brazil</b>.
 </p>
 
-<!-- ABOUT OF ME -->
-<p align="center" style="text-align: center;">
-Hi dear, my name is Thiago Bittencourt Coelho and I'm currently 21 years old,<br>I'm working with iOS development at Everis.<br>I'm studying <a href="https://www.apple.com/br/swift/">Swift</a> and <a href="https://nodejs.org/en/">Node</a> 
-</p>
-<!-- QUOTE -->
-<br>
-<p align="center">
-"Satisfaction of one's curiosity is one of the greatest sources of happiness in life."
-<br>
-― Linus Pauling
-</p>
-<br>
+<br/>
 
-<!-- SOCIAL MEDIAS -->
-<p align="center">
-  
-<img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" alt="swift" width="20" height="20"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"  width="20" height="20"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="20" height="20"/></p><p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=bittencourthiago&show_icons=true" alt="binttencourthiago"/>
-</p>
+### Talking about Personal Stuffs
+
+- 👩🏻‍🚀 I'm junior mobile developer at Everis;
+
+- 👩🏻‍💻 I’m currently working on something cool :wink:;
+
+- 🌱 I’m currently learning Swift, Node; 
+
+- 💬 Ask me about anything, I am happy to help;
+
+### Where to find me:
+
+<a href="https://www.linkedin.com/in/thiago-bittencourt-coelho-4353ba1a0/">
+  <code><img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" /></code>
+</a>
+
+<a href="mailto:thiago.bittc@gmail.com">
+  <code><img alt="My e-mail" width="32" src="https://www.flaticon.com/svg/static/icons/svg/324/324123.svg" /></code>
+</a>
+
+<br/><br/>
+
+## My Development Stack
+
+**Application and Data**
+
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" alt="Swift"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
+
+
+**Utilities**
+
+<code><img height="32" src="https://dashboard.snapcraft.io/site_media/appmedia/2018/04/twitter-card-icon.png" alt="Insomnia"/></code>
+<code><img height="32" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png" alt="Postman"/></code>
+
+**DevOps**
+
+<code><img height="32" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="GitHub"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"/></code>
+
+<br/>
+
+## Coding Activity
+
+<br/>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/thiago-bittencourt-coelho-4353ba1a0/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="thiago" height="20" width="20" /></a>
-<a href="https://pt.stackoverflow.com/users/191681/thiago-bittencourt-coelho" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="thiago" height="20" width="20" /></a>
-<a href="https://codesandbox.com/u/thiago" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="thiago" height="20" width="20" /></a>
-<a href="https://instagram.com/tb.coelho" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="thiago" height="20" width="20" /></a>
+    <img src="https://github-readme-stats.vercel.app/api?username=bittencourthiago&show_icons=true" alt="bittencourthiago"/>
+</p>
+
+<br/>
+
+<p align="right">
+  <a href="https://badges.pufler.dev">
+      <img src="https://badges.pufler.dev/visits/Mitsu325/Mitsu325" alt="Visitors badge" />
+   </a>
 </p>
