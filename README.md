@@ -68,8 +68,3 @@
 
 <br/>
 
-<p align="right">
-  <a href="https://badges.pufler.dev">
-      <img src="https://badges.pufler.dev/visits/bittencourthiago/bittencourthiago" alt="Visitors badge" />
-   </a>
-</p>
