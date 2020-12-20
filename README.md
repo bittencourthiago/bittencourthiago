@@ -1,6 +1,5 @@
-# Hi, nice to meet you <img width="30" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" alt="Sunglasses emoji" />
+# Hi, nice to meet you 😃
 
-<img align="right" width="40%" src="https://media.giphy.com/media/YxdQy6Vxbvb44/giphy.gif" alt="Basecamp sky" />
 
 ### Welcome to my page!
 <p>
@@ -15,7 +14,7 @@
 
 - 👩🏻‍🚀 I'm junior mobile developer at Everis;
 
-- 👩🏻‍💻 I’m currently working on something cool :wink:;
+- 👩🏻‍💻 I’m currently working on something cool :relaxed:;
 
 - 🌱 I’m currently learning Swift, Node; 
 
