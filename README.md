@@ -70,6 +70,6 @@
 
 <p align="right">
   <a href="https://badges.pufler.dev">
-      <img src="https://badges.pufler.dev/visits/Mitsu325/Mitsu325" alt="Visitors badge" />
+      <img src="https://badges.pufler.dev/visits/bittencourthiago/bittencourthiago" alt="Visitors badge" />
    </a>
 </p>
