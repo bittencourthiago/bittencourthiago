@@ -67,4 +67,4 @@
 </p>
 
 <br/>
-<p>Template Created by @Mitsu325</p>
+<p>Template Created by <a href="https://github.com/Mitsu325">@Mitsu325</a></p>
