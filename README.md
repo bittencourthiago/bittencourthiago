@@ -64,7 +64,10 @@
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=bittencourthiago&show_icons=true" alt="bittencourthiago"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bittencourthiago">
 </p>
-
+<p align="center">
+  
+</p>
 <br/>
 <p>Template Created by <a href="https://github.com/Mitsu325">@Mitsu325</a></p>
