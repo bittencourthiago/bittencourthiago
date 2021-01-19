@@ -63,7 +63,7 @@
 <br/>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=bittencourthiago&show_icons=true" alt="bittencourthiago"/>
+    <img src="https://github-readme-stats.vercel.app/api/?username=bittencourthiago&theme=radical" alt="bittencourthiago"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bittencourthiago&layout=compact">
 </p>
 <p align="center">
