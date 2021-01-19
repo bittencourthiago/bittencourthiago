@@ -63,8 +63,8 @@
 <br/>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/?username=bittencourthiago&theme=algolia" alt="bittencourthiago"/><br>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bittencourthiago&layout=compact&langs_count=8&theme=algolia"/>
+    <img src="https://github-readme-stats.vercel.app/api/?username=bittencourthiago&theme=dracula" alt="bittencourthiago"/><br>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bittencourthiago&layout=compact&langs_count=8&theme=dracula"/>
 </p>
 <p align="center">
   
