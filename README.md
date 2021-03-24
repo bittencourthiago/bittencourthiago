@@ -12,7 +12,7 @@
 
 ### Talking about Personal Stuffs
 
-- 👩🏻‍🚀 I'm junior mobile developer at Everis;
+- 👩🏻‍🚀 I'm iOS developer at Act Digital;
 
 - 👩🏻‍💻 I’m currently working on something cool :relaxed:;
 
