@@ -12,7 +12,7 @@
 
 ### Talking about Personal Stuffs
 
-- 👩🏻‍🚀 I'm iOS developer at Act Digital;
+- 👩🏻‍🚀 I'm iOS developer at PremierSoft;
 
 - 👩🏻‍💻 I’m currently working on something cool :relaxed:;
 
