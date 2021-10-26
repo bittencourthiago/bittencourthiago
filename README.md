@@ -3,9 +3,7 @@
 
 ### Welcome to my page!
 <p>
-  I'm Thiago Bittencourt Coelho, Mobile developer from 
-  <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" />
-  <b>Brazil</b>.
+  I'm Thiago Bittencourt Coelho, Mobile developer from Brazil.
 </p>
 
 <br/>
